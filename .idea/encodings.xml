@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/enums/Command.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/JenkinsJob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/JenkinsServerSession.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/LogUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/StringUtils.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
